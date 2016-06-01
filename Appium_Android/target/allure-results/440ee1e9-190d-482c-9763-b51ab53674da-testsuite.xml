@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1464161696804" stop="1464161762442" version="1.4.16" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default suite : Default test</name>
+    <title>Default suite : Default test</title>
+    <test-cases>
+        <test-case start="1464161704833" stop="1464161760005" status="passed">
+            <name>verify_billing</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="CPU0100"/>
+                <label name="thread" value="4556@CPU0100.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

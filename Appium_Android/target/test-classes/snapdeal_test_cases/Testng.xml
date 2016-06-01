@@ -1,0 +1,11 @@
+<suite name="Suite" >
+ 
+  	<test name="Regression Test">
+		<classes>
+ 
+       			<class name="snapdeal_test_cases.Failed_Billing_test" />
+       			
+       			
+      </classes>
+  	</test> <!-- Test -->
+</suite> <!-- Suite -->
